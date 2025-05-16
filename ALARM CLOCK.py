@@ -1,4 +1,4 @@
-port datetime
+import datetime
 import sys
 import pygame
 from PyQt5.QtCore import QTimer
